@@ -1,0 +1,47 @@
+
+export const agent = {
+  testIntro: `welcome to our customer service test. This assessment is designed to evaluate your ability to handle common situations you may encounter in a customer service environment. Throughout the test, you will be presented with different scenarios that will challenge your problem-solving skills, conflict management, and ability to provide excellent service. For each scenario, you will need to choose the response that best reflects how you would handle the situation. The options range from poor management to excellent resolution, so be sure to read each situation carefully before making your selection. Take your time to think about each question and how you can best address the customer’s concerns. Remember, empathy, clear communication, and the ability to offer solutions are key to delivering outstanding service.`,
+
+  testluck: 'Get ready to answer the questions, and good luck.',
+  question1: `A customer has placed an order for a special item that was promised to arrive within three days. After four days, the customer contacts you, visibly frustrated, stating that they haven’t received the item and they were counting on it for a special occasion. They express disappointment and ask if there is any way to expedite the delivery. How do you respond?`,
+  firstQuestionRes1: ` I would tell the customer that delays happen and they just need to be patient. It's not my responsibility to fix it.`,
+  firstQuestionRes2: ` I would acknowledge the delay and inform the customer that I’ll look into it, but I wouldn’t provide any additional assistance or compensation.`,
+  firstQuestionRes3: `I would sincerely apologize for the inconvenience, assure the customer I understand their frustration, check the status of the order immediately, and offer a solution, such as expediting shipping or providing a discount for the inconvenience.`,
+  question2: `A customer calls in, extremely upset about receiving a defective product that they had high hopes for. They explain that the product is not functioning as advertised and that they feel let down, especially after reading positive reviews. The customer demands a full refund and threatens to leave a negative review if the issue isn’t resolved quickly. How do you handle this call? `,
+  secondeQuestionRes1: ` I would argue with the customer, telling them that their expectations were too high and that the product is working fine for others.`,
+  secondeQuestionRes2: ` I would listen to their complaint and tell them I’ll process a refund, but I wouldn’t offer any further assistance or reassurance.`,
+  secondeQuestionRes3: `I would empathize with the customer’s disappointment, reassure them that I want to resolve the issue, process the refund immediately, and ask if they would like to explore a different product or offer them a discount on their next purchase.`,
+
+  question3: ` During a customer service survey, a customer provides feedback suggesting that your company could improve its online ordering system by making it more user-friendly. They explain that they had a hard time navigating the website and would have abandoned their order if they hadn’t needed the item urgently. They also mention that this has been a common issue among friends and family. How do you react to this feedback?`,
+  thirdQuestionRes1: `I would thank them for their feedback but make it clear that I don’t see any need for changes, as the system works fine for most people.`,
+  thirdQuestionRes2: `I would acknowledge their suggestion and thank them for their feedback but do nothing to further explore or address the issue.`,
+  thirdQuestionRes3: `I would express gratitude for their valuable feedback, assure them that I take it seriously, and inform them that I will pass it on to the relevant team for consideration. I would also follow up to let them know about any future improvements.`,
+  aboutyou: `Now that you’ve had a chance to get to know us and showcase your skills, we’d like to learn more about you. In this part of the assessment, please share more about your work preferences, personality, and approach to customer interactions. This will help us understand where your strengths can best support our team and find the role where you’ll thrive the most within our company. Please answer honestly—there are no right or wrong answers. Thank you for your time, and we look forward to learning more about you!`,
+
+};
+
+// spanish part
+
+export const agente = {
+  pruebaintro: `bienvenido a nuestra prueba de servicio al cliente. Esta evaluación está diseñada para medir tus habilidades al enfrentarte a situaciones comunes que podrías encontrar en un entorno de atención al cliente. A lo largo de la prueba, te presentaremos varios escenarios que pondrán a prueba tu capacidad para resolver problemas, manejar conflictos y ofrecer un servicio excelente. En cada escenario, deberás elegir la respuesta que mejor describa cómo actuarías. Las opciones van desde una mala gestión hasta una excelente resolución, por lo que te recomendamos que leas detenidamente cada situación antes de seleccionar tu respuesta. Tómate el tiempo necesario para pensar en cada pregunta y cómo podrías manejar mejor las inquietudes del cliente. Recuerda que la empatía, la comunicación clara y la capacidad de ofrecer soluciones son claves para brindar un servicio excepcional.`,
+
+     suerte: `Prepárate para responder las preguntas y buena suerte.`,
+
+     pregunta1: `Un cliente realizó un pedido de un artículo de edición limitada en línea, el cual debía llegar en tres días para un evento especial. Han pasado cuatro días y aún no ha recibido el artículo. Frustrado, contacta al servicio de atención al cliente, explicando que el artículo es esencial para un evento que tiene mañana y lo necesita de inmediato. El cliente está decepcionado y pregunta si se puede hacer algo para acelerar la entrega o compensar el retraso. ¿Cómo responderías?`,
+     primeraPreguntaRes1: ` Le diría al cliente que los retrasos son comunes y que tendrá que esperar unos días más. No asumiría la responsabilidad de la situación.`,
+     primeraPreguntaRes2: `Me disculparía por el retraso y le informaría al cliente que verificaré el estado del pedido, pero no ofrecería ninguna compensación ni opción de entrega más rápida.`,
+     primeraPreguntaRes3: `Me disculparía sinceramente por el inconveniente, mostraría empatía reconociendo la importancia del artículo para su evento y verificaría de inmediato el estado del pedido. Luego ofrecería una solución, como envío exprés, y proporcionaría un descuento o un vale de regalo para compensar la frustración causada.`,
+
+     pregunta2: `Un cliente recibió un producto que no funcionaba como se anunciaba, a pesar de que estaba emocionado por probarlo después de leer buenas reseñas. Molesto, llama al servicio de atención al cliente exigiendo un reembolso completo y advirtiendo que dejará una reseña negativa si el problema no se resuelve rápidamente. ¿Cómo manejarías esta llamada?`,
+     segundaPreguntaRes1: `Discutiría con el cliente, explicando que el producto funciona bien para otros y que debería seguir mejor las instrucciones. No ofrecería un reembolso ni otra ayuda.`,
+     segundaPreguntaRes2: `Escucharía la queja del cliente y procesaría el reembolso, pero no haría ningún esfuerzo adicional para tranquilizarlo o ofrecerle una solución futura.`,
+     segundaPreguntaRes3: ` Expresaría empatía genuina por su decepción, me disculparía por el producto defectuoso y procesaría el reembolso de inmediato. Además, ofrecería enviar un producto de reemplazo o proporcionaría un descuento en su próxima compra como gesto de buena voluntad para restaurar su confianza en la empresa.`,
+
+     pregunta3: `Durante una encuesta de retroalimentación, un cliente menciona que tuvo dificultades para navegar por el proceso de compra en línea. Comenta que, de no haber necesitado el artículo con urgencia, habría abandonado la compra. También menciona que otras personas que conoce han compartido la misma queja sobre la experiencia del usuario en el sitio web. ¿Cómo reaccionarías ante esta retroalimentación?`,
+     
+     terceraPreguntaRes1: `Agradecería al cliente por su retroalimentación, pero descartaría la queja diciendo que el sitio web funciona bien para la mayoría de los usuarios y no es necesario hacer cambios.`,
+     terceraPreguntaRes2: `Agradecería la retroalimentación y reconocería el comentario, pero no tomaría medidas adicionales para investigarlo o pasarlo al equipo correspondiente.`,
+     terceraPreguntaRes3: ` Agradecería su detallada retroalimentación y le haría saber que tomo en serio sus comentarios. Le aseguraría que pasaré sus inquietudes al departamento relevante para su revisión y le informaría sobre cualquier mejora futura realizada en el sitio web.`,
+     sobreti: `Ahora que ya conoces un poco más sobre nosotros y has demostrado tus habilidades, nos gustaría saber más sobre ti. En esta parte de la evaluación, queremos conocer tus preferencias de trabajo, tu personalidad y tu forma de abordar las interacciones con los clientes. Esto nos ayudará a entender cómo tus fortalezas pueden apoyar mejor a nuestro equipo y a encontrar el rol en el que más puedas destacar dentro de nuestra empresa. Por favor, responde de manera honesta—no hay respuestas correctas o incorrectas. ¡Gracias por tu tiempo, y esperamos conocerte mejor!`,
+     
+}
