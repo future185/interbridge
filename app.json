@@ -12,10 +12,14 @@
     },
     "web": {
       "bundler": "metro",
-      "favicon": "./assets/icons/logo.png"
+      "favicon": "./assets/icons/logo.png",
+      "build": {
+        "output": "./web-build" 
+      }
     },
     "plugins": [
       "expo-router"
     ]
   }
 }
+
